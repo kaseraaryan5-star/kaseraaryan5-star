@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aryan Kasera</h1>
 <h3 align="center">🚀 AI Engineer | Python, FastAPI, RAG, LLMs | Building in Public</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-engineer-bro.svg" width="400" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaseraaryan5-star&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-kasera-ai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
