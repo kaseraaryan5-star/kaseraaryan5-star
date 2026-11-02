@@ -36,7 +36,7 @@
 
 ### 🎮 GitHub Contribution Snake Game:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kaseraaryan5-star/kaseraaryan5-star/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaseraaryan5-star&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
