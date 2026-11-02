@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Kasera</h1>
 <h3 align="center">🚀 AI Engineer | Python, FastAPI, RAG, LLMs | Building in Public</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Software-engineer-bro.svg" width="400" />
+  <img src="https://raw.githubusercontent.com/abhisheknkv/abhisheknkv/master/assets/home-profile.svg" width="400" />
 </p>
 
 <p align="center">
