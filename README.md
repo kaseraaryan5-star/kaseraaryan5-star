@@ -1,14 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aryan Kasera</h1>
-<h3 align="center">🚀 AI Engineer | Python, FastAPI, RAG, LLMs | Building in Public</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aryan-kasera-ai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/KaseraAryan" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-</p>
+<h1 align="center">It's a pleasure to meet you, Hello 👋, I'm Aryan Kasera</h1>
+<h3 align="center">AI Engineer | Python, FastAPI, RAG & LLMs</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaseraaryan5-star&color=brightgreen&style=flat-square" alt="Profile Views" />
@@ -16,10 +7,20 @@
 
 ---
 
-### 💻 About Me:
-* 🔭 I'm currently working on advanced RAG architectures, Agentic AI, and FastAPI microservices.
-* 🐍 Passionate about building robust AI pipelines and contributing to open-source projects.
-* ⚡ Fun fact: Deeply dedicated to daily code commits and building in public!
+### 🐍 My GitHub Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaseraaryan5-star/kaseraaryan5-star/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaseraaryan5-star/kaseraaryan5-star/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaseraaryan5-star/kaseraaryan5-star/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknkv/abhisheknkv/master/assets/home-profile.svg" width="400" />
+</p>
 
 ---
 
@@ -34,6 +35,8 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+---
+
 ### 🤖 AI & API Integration:
 <p>
   <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
@@ -41,6 +44,8 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20APIs-02303A?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
+---
 
 ### 📚 Currently Learning:
 <p>
@@ -51,19 +56,27 @@
 
 ---
 
-### 📊 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaseraaryan5-star&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-</p>
+### 👨‍💻 About Me:
+* 🔭 I'm currently working on advanced **RAG architectures & Agentic AI**[cite: 17].
+* 🌱 I'm currently learning **FastAPI, LangChain & Vector Databases**[cite: 17].
+* 👯 I'm looking to collaborate on **Open Source AI Projects**[cite: 17].
+* 💬 Ask me about **Python, AI Engineering, FastAPI & Git**[cite: 17].
+* 📫 Reach me at **kaseraaryan5@gmail.com**[cite: 17].
+* ⚡ Fun fact: **I am deeply addicted to coding and building in public!**[cite: 17]
 
 ---
 
-### 📈 GitHub Stats & Trophies:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaseraaryan5-star&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaseraaryan5-star&theme=radical&hide_border=true" />
+### 📊 Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/aryan-kasera-ai" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/KaseraAryan" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaseraaryan5-star&theme=radical&no-frame=true&column=4" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaseraaryan5-star&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaseraaryan5-star&theme=radical&hide_border=true" />
 </p>
