@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Kasera</h1>
+<h3 align="center">🚀 AI Engineer | Python, FastAPI, RAG, LLMs | Building in Public</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Python+%26+FastAPI;Building+Advanced+RAG+Systems;Open-Source+Contributor" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaseraaryan5-star&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-kasera-ai" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,6 +8,10 @@
   <a href="https://x.com/KaseraAryan" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaseraaryan5-star&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -53,7 +51,6 @@
 
 ---
 
-### 📊 Top Languages:
 ### 📊 Most Used Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaseraaryan5-star&layout=compact&langs_count=8&theme=radical&hide_border=true" />
