@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<<h1 align="center">Hi 👋, I'm Aryan Kasera</h1>
+<h1 align="center">Hi 👋, I'm Aryan Kasera</h1>
 <h3 align="center">🚀 AI Engineer | Python, FastAPI, RAG, LLMs | Building in Public</h3>
 
 <p align="center">
@@ -21,26 +19,42 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### 🛠️ Languages, Technologies & Tools:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
+### 🤖 AI & API Integration:
+<p>
+  <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02303A?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### 📚 Currently Learning:
+<p>
+  <img src="https://img.shields.io/badge/Python-Advanced-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Learning-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG%20Architectures-Improving-green?style=flat-square" />
+</p>
+
 ---
 
+### 📊 Top Languages:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaseraaryan5-star&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats & Trophies:
+### 📈 GitHub Stats & Trophies:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaseraaryan5-star&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaseraaryan5-star&theme=radical&hide_border=true" />
@@ -48,17 +62,4 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kaseraaryan5-star&theme=radical&no-frame=true&column=4" />
-</p>!--
-**kaseraaryan5-star/kaseraaryan5-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
