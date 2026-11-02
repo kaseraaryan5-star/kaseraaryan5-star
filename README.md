@@ -6,28 +6,6 @@
 </p>
 
 ---
-### 🐍 My GitHub Contribution Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaseraaryan5-star/kaseraaryan5-star/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaseraaryan5-star/kaseraaryan5-star/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaseraaryan5-star/kaseraaryan5-star/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknkv/abhisheknkv/master/assets/home-profile.svg" width="400" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknkv/abhisheknkv/master/assets/home-profile.svg" width="400" />
-</p>
-
----
 
 ### 🛠️ Languages, Technologies & Tools:
 <p>
@@ -57,13 +35,6 @@
   <img src="https://img.shields.io/badge/Python-Advanced-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Agentic%20AI-Learning-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG%20Architectures-Improving-green?style=flat-square" />
-</p>
-
----
-
-### 📊 Most Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaseraaryan5-star&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </p>
 
 ---
