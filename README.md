@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Kasera</h1>
 <h3 align="center">🚀 AI Engineer | Python, FastAPI, RAG, LLMs | Building in Public</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknkv/abhisheknkv/master/assets/home-profile.svg" width="400" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Python+%26+FastAPI;Building+Advanced+RAG+Systems;Open-Source+Contributor" alt="Typing SVG" />
 </p>
 
 <p align="center">
