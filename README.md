@@ -34,7 +34,6 @@
 
 ---
 
-### 🎮 GitHub Contribution Snake Game:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaseraaryan5-star&layout=compact&theme=radical&hide_border=true" />
 </p>
