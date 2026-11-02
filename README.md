@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ### 🐍 My GitHub Contribution Snake
 <p align="center">
   <picture>
@@ -52,6 +51,13 @@
   <img src="https://img.shields.io/badge/Python-Advanced-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Agentic%20AI-Learning-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG%20Architectures-Improving-green?style=flat-square" />
+</p>
+
+---
+
+### 📊 Most Used Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaseraaryan5-star&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </p>
 
 ---
