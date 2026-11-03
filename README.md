@@ -40,26 +40,19 @@
 ---
 
 ### 👨‍💻 About Me:
-* 🔭 I'm currently working on advanced **RAG architectures & Agentic AI**[cite: 17].
-* 🌱 I'm currently learning **FastAPI, LangChain & Vector Databases**[cite: 17].
-* 👯 I'm looking to collaborate on **Open Source AI Projects**[cite: 17].
-* 💬 Ask me about **Python, AI Engineering, FastAPI & Git**[cite: 17].
-* 📫 Reach me at **kaseraaryan5@gmail.com**[cite: 17].
-* ⚡ Fun fact: **I am deeply addicted to coding and building in public!**[cite: 17]
+- 🔭 I'm currently working on advanced **RAG architectures & Agentic AI**.
+- 🌱 I'm currently learning **FastAPI, LangChain & Vector Databases**.
+- 👯 I'm looking to collaborate on **Open Source AI Projects**.
+- 💬 Ask me about **Python, AI Engineering, FastAPI & Git**.
+- 📫 Reach me at [kaseraaryan5@gmail.com](mailto:kaseraaryan5@gmail.com).
+- ⚡ Fun fact: **I am deeply addicted to coding and building in public!**
 
----
+## 🌐 Connect with me
 
-### 📊 Connect with me:
-<p>
-  <a href="https://www.linkedin.com/in/aryan-kasera-ai" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/KaseraAryan" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
-  </a>
-</p>
+- 🚀 Portfolio: [aryankasera-ai.netlify.app](https://aryankasera-ai.netlify.app)
+- 💼 LinkedIn: [linkedin.com/in/aryan-kasera-ai](https://www.linkedin.com/in/aryan-kasera-ai)
+- 🐦 X (Twitter): [@KaseraAryan](https://x.com/KaseraAryan)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaseraaryan5-star&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaseraaryan5-star&theme=radical&hide_border=true" />
 </p>
