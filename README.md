@@ -7,6 +7,13 @@
 
 ---
 
+### 🌐 Open Source Contributions
+
+* **[Noggin-Labs/Noggimigo](https://huggingface.co/Noggin-Labs/Noggimigo)** (Hugging Face): Added `ratios_proportions` lesson module (`curriculum.py`) to expand core math tutoring capabilities ([PR #2](https://huggingface.co/Noggin-Labs/Noggimigo/discussions/2) - **Merged**).
+* **[567-labs/instructor](https://github.com/567-labs/instructor):** Contributed to Jason Liu's Instructor library by updating and refining README documentation ([PR #2689](https://github.com/567-labs/instructor/pull/2689) - **Merged**).
+
+---
+
 ### 🛠️ Languages, Technologies & Tools:
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
